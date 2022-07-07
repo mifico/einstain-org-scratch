@@ -1,0 +1,17 @@
+{
+  "orgName": "maxim company",
+  "edition": "Enterprise",
+  "features": [
+    "EinsteinVisits",
+    "EinsteinSearch",
+    "EinsteinBuilderFree",
+    "EinsteinRecommendationBuilder",
+    "SalesCloudEinstein",
+    "EinsteinArticleRecommendations",
+    "EinsteinAnalyticsPlus",
+    "Knowledge",
+    "ServiceCloud",
+    "ServiceUser",
+    "LightningServiceConsole"
+  ]
+}
